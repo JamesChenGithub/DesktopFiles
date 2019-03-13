@@ -1,0 +1,9 @@
+get_filename_component(WINDOWS_CMAKE_DIR "${CMAKE_CURRENT_LIST_FILE}" PATH)
+
+set(WINDOWS_INC
+		${WINDOWS_CMAKE_DIR}
+		)
+
+set(WINDOWS_SRC
+
+		)
