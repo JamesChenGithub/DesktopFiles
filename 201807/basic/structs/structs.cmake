@@ -1,9 +1,0 @@
-get_filename_component(STRUCTS_CMAKE_DIR "${CMAKE_CURRENT_LIST_FILE}" PATH)
-
-set(STRUCTS_INC
-		${STRUCTS_CMAKE_DIR}
-		)
-
-set(STRUCTS_SRC
-		)
-

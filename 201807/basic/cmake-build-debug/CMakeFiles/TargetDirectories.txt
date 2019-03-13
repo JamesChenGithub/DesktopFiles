@@ -1,4 +1,0 @@
-/Users/alderzhang/tencent/LiteAV/liteav/module/cpp/basic/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/alderzhang/tencent/LiteAV/liteav/module/cpp/basic/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/alderzhang/tencent/LiteAV/liteav/module/cpp/basic/cmake-build-debug/CMakeFiles/log_test.dir
-/Users/alderzhang/tencent/LiteAV/liteav/module/cpp/basic/cmake-build-debug/CMakeFiles/basic.dir
