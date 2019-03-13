@@ -1,0 +1,25 @@
+//
+//  ScreenRecord-Prefix.pch
+//  SreenRecord
+//
+//  Created by AlexiChen on 2018/5/29.
+//  Copyright © 2018年 AlexiChen. All rights reserved.
+//
+
+#ifndef ScreenRecord_Prefix_h
+#define ScreenRecord_Prefix_h
+
+#import <ImSDK/ImSDK.h>
+#import <QAVSDK/QAVSDK.h>
+#import <QALSDK/QalSDKProxy.h>
+#import <TLSSDK/TLSHelper.h>
+#import <IMSDKBugly/IMSDKBugly.h>
+
+#import <ILiveSDK/ILiveCoreHeader.h>
+
+
+#import "ConstHeader.h"
+
+#import "AppDelegate.h"
+
+#endif /* ScreenRecord_Prefix_h */
